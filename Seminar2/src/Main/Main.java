@@ -1,8 +1,8 @@
 package Main;
 
-import clase.Aplicant;
-import clase.readers.classes.AngajatReader;
-import clase.readers.interfaces.ApplicantReader;
+import Models.Aplicant;
+import Models.readers.classes.AngajatReader;
+import Models.readers.interfaces.ApplicantReader;
 
 import java.io.FileNotFoundException;
 import java.util.List;
@@ -17,7 +17,6 @@ public class Main {
             for (Aplicant angajat : listaAngajati)
                 System.out.println(angajat.toString());
         } catch (FileNotFoundException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
