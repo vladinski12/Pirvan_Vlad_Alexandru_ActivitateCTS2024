@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3_Singleton/Seminar3_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_Singleton/Seminar3_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_FactoryMethod/Seminar4_FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar4_FactoryMethod/Seminar4_FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_BuilderInner/Seminar5_BuilderInner.iml" filepath="$PROJECT_DIR$/Seminar5_BuilderInner/Seminar5_BuilderInner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5_Prototype/Seminar5_Prototype.iml" filepath="$PROJECT_DIR$/Seminar5_Prototype/Seminar5_Prototype.iml" />
     </modules>
   </component>
 </project>

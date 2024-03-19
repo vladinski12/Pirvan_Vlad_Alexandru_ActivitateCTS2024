@@ -5,30 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0e3590-8175-4a50-9678-77db3b789dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seminar4/Seminar4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Asistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Brancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Fabrica/FabricaPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Fabrica/TipPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Infirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4/src/Models/PersonalSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/Seminar4_FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Asistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Brancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Fabrica/FabricaAsistent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Fabrica/FabricaBrancardier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Fabrica/FabricaInfirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Fabrica/FabricaMedic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Fabrica/FabricaPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Infirmier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/Medic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_FactoryMethod/src/Models/PersonalSpital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/blobs/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Builder/src/Models/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Builder/src/Models/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Builder/src/Models/PacientBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_BuilderInner/Seminar5_BuilderInner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_BuilderInner/src/Models/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_BuilderInner/src/Models/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Prototype/Seminar5_Prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Prototype/src/Models/Reteta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Prototype/src/Models/RetetaAbstracta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar5_Prototype/src/Models/RetetaCrema.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3/Seminar3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_Singleton/Seminar3_Singleton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_Singleton/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3/src/Models/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_Singleton/src/Models/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3/src/Models/SustinereExamene/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_Singleton/src/Models/SustinereExamene/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3/src/Models/SustinereExamene/SustinereExamen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_Singleton/src/Models/SustinereExamene/SustinereExamen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/Seminar4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/Seminar4_SimpleFactory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Asistent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Brancardier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Fabrica/FabricaPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Fabrica/FabricaPersonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Fabrica/TipPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Fabrica/TipPersonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Infirmier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Infirmier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/Medic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4/src/Models/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_SimpleFactory/src/Models/PersonalSpital.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +67,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.Main (1).executor": "Run",
+    "Application.Main.Main (3).executor": "Run",
+    "Application.Main.Main (4).executor": "Run",
+    "Application.Main.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -68,10 +78,12 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "jbr-17",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
@@ -86,7 +98,7 @@
       <recent name="Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Pirvan_Vlad_Alexandru_ActivitateCTS2024" />
@@ -96,20 +108,7 @@
     </configuration>
     <configuration name="Main.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar3" />
+      <module name="Seminar5_Prototype" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Main.*" />
@@ -122,7 +121,20 @@
     </configuration>
     <configuration name="Main.Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar4" />
+      <module name="Seminar4_SimpleFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Seminar5_Builder" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Main.*" />
@@ -135,7 +147,7 @@
     </configuration>
     <configuration name="Main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar1" />
+      <module name="Seminar5_BuilderInner" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Main.*" />
@@ -148,13 +160,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main.Main (3)" />
-        <item itemvalue="Application.Main.Main (2)" />
         <item itemvalue="Application.Main.Main (1)" />
         <item itemvalue="Application.Main.Main" />
+        <item itemvalue="Application.Main.Main (4)" />
+        <item itemvalue="Application.Main.Main (3)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbrsdk-17.0.9-4caba194b151-b614c381" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -166,6 +185,8 @@
       <updated>1709053672089</updated>
       <workItem from="1709053673163" duration="1353000" />
       <workItem from="1710248901969" duration="3758000" />
+      <workItem from="1710853288520" duration="106000" />
+      <workItem from="1710853555223" duration="3943000" />
     </task>
     <servers />
   </component>
