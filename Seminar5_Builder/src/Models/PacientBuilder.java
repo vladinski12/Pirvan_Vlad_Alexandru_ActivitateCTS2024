@@ -7,7 +7,7 @@ public class PacientBuilder implements Builder {
         return this.patient;
     }
 
-    Pacient patient;
+    private Pacient patient;
 
     public PacientBuilder() {
         patient = new Pacient(false, false, false, false);

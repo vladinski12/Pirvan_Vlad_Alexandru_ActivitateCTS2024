@@ -6,7 +6,7 @@ public class Pacient {
     private boolean papuciDeCamera;
     private boolean halatPentruInterior;
 
-    protected Pacient(boolean patRabatabil, boolean micDejunInclus, boolean papuciDeCamera, boolean halatPentruInterior) {
+    public Pacient(boolean patRabatabil, boolean micDejunInclus, boolean papuciDeCamera, boolean halatPentruInterior) {
         this.patRabatabil = patRabatabil;
         this.micDejunInclus = micDejunInclus;
         this.papuciDeCamera = papuciDeCamera;
