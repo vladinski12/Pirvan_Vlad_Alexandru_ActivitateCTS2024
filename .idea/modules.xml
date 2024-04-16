@@ -11,8 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" filepath="$PROJECT_DIR$/Seminar5_Builder/Seminar5_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_BuilderInner/Seminar5_BuilderInner.iml" filepath="$PROJECT_DIR$/Seminar5_BuilderInner/Seminar5_BuilderInner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_Prototype/Seminar5_Prototype.iml" filepath="$PROJECT_DIR$/Seminar5_Prototype/Seminar5_Prototype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar7/Seminar7.iml" filepath="$PROJECT_DIR$/Seminar7/Seminar7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar8/Seminar8.iml" filepath="$PROJECT_DIR$/Seminar8/Seminar8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar7_Adapter/Seminar7_Adapter.iml" filepath="$PROJECT_DIR$/Seminar7_Adapter/Seminar7_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Decorator/Seminar8_Decorator.iml" filepath="$PROJECT_DIR$/Seminar8_Decorator/Seminar8_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Flyweight/Seminar9_Flyweight.iml" filepath="$PROJECT_DIR$/Seminar9_Flyweight/Seminar9_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" filepath="$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" />
     </modules>
   </component>
 </project>
