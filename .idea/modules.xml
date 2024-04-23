@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" filepath="$PROJECT_DIR$/Pirvan_Vlad_Alexandru_ActivitateCTS2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Observer/Seminar10_Observer.iml" filepath="$PROJECT_DIR$/Seminar10_Observer/Seminar10_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" filepath="$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_Singleton/Seminar3_Singleton.iml" filepath="$PROJECT_DIR$/Seminar3_Singleton/Seminar3_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_FactoryMethod/Seminar4_FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar4_FactoryMethod/Seminar4_FactoryMethod.iml" />

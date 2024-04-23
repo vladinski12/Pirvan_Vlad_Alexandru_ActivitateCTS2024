@@ -5,35 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0e3590-8175-4a50-9678-77db3b789dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seminar9_Flyweight/Seminar9_Flyweight.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Flyweight/src/Models/Caracteristici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Flyweight/src/Models/Fabrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Flyweight/src/Models/Flyweight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Flyweight/src/Models/Spectator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/Seminar9_Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/src/Models/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/src/Models/ProxyGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/src/Models/ProxyVarsta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/src/Models/Vanzare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_Proxy/src/Models/VanzareBilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/Seminar10_Observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Abonat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Vecin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Stadion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/IVerficator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/Portar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorPeluza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorTribuna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorVIP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/Seminar7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/Seminar7_Adapter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softNou/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softNou/Bar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softNou/Bautura.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softNou/Bautura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softVechi/AdapterBauturaProdus.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/AdapterBauturaProdus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softVechi/AdapterComandaBarBucatarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/AdapterComandaBarBucatarie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softVechi/Bucatarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/Bucatarie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softVechi/Produs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/Produs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7/src/Adapter/softVechi/SoftBucatarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/SoftBucatarie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/Seminar8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/Seminar8_Decorator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Models/Decorator/AplicatieMobila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Models/Decorator/AplicatieMobila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Models/Decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Models/Decorator/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Models/Decorator/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Models/Decorator/Website.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Models/Spital/Diagnostic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Models/Spital/Diagnostic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8/src/Models/Spital/DiagnosticAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Models/Spital/DiagnosticAbstract.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,44 +41,44 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2cxWNNKEyWF9XATQIXeyHvWouwu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.Main (1).executor": "Run",
-    "Application.Main.Main (2).executor": "Run",
-    "Application.Main.Main (3).executor": "Run",
-    "Application.Main.Main (4).executor": "Run",
-    "Application.Main.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "jbr-17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/vpirv/Desktop/Facultate/an3sem2/CTS/Pirvan_Vlad_Alexandru_ActivitateCTS2024",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vpirv/Desktop/Facultate/an3sem2/CTS/Pirvan_Vlad_Alexandru_ActivitateCTS2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vpirv\Desktop\Pirvan_Vlad_Alexandru_ActivitateCTS2024\Seminar2\src" />
@@ -103,7 +89,7 @@
       <recent name="Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main.Main">
+  <component name="RunManager" selected="Application.Main.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adapter.Main.Main" />
       <module name="Seminar7_Adapter" />
@@ -117,9 +103,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar4_FactoryMethod" />
+      <module name="Seminar10_Observer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Main.*" />
@@ -171,18 +157,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main.Main (1)" />
         <item itemvalue="Application.Main.Main" />
         <item itemvalue="Application.Main.Main (4)" />
         <item itemvalue="Application.Main.Main (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main.Main (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-jbrsdk-17.0.9-4caba194b151-b614c381" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -206,6 +193,8 @@
       <workItem from="1712070196841" duration="4655000" />
       <workItem from="1712732566034" duration="443000" />
       <workItem from="1713269017948" duration="4766000" />
+      <workItem from="1713873690097" duration="71000" />
+      <workItem from="1713873878376" duration="3973000" />
     </task>
     <servers />
   </component>
