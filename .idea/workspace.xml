@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0e3590-8175-4a50-9678-77db3b789dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/Seminar10_Observer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Abonat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Observer/Vecin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Stadion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Models/Subject/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/Seminar10_Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/IVerficator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/Portar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorPeluza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorTribuna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_Strategy/src/Models/VerificatorVIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/Seminar11_State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/src/Models/Externat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/src/Models/Internat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/src/Models/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/src/Models/Stare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_State/src/Models/SubObservatie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_Template/Seminar11_Template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_Template/src/Models/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_Template/src/Models/SpitalPublic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar11_Template/src/Models/Template.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,9 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cxWNNKEyWF9XATQIXeyHvWouwu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -89,13 +86,13 @@
       <recent name="Models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Adapter.Main.Main" />
-      <module name="Seminar7_Adapter" />
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="Seminar11_Template" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Adapter.Main.*" />
+          <option name="PATTERN" value="Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,9 +113,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main.Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
-      <module name="Seminar8_Decorator" />
+      <module name="Seminar11_State" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Main.*" />
@@ -157,19 +154,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main.Main (2)" />
         <item itemvalue="Application.Main.Main (1)" />
         <item itemvalue="Application.Main.Main" />
         <item itemvalue="Application.Main.Main (4)" />
-        <item itemvalue="Application.Main.Main (3)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -194,7 +191,9 @@
       <workItem from="1712732566034" duration="443000" />
       <workItem from="1713269017948" duration="4766000" />
       <workItem from="1713873690097" duration="71000" />
-      <workItem from="1713873878376" duration="3973000" />
+      <workItem from="1713873878376" duration="4076000" />
+      <workItem from="1715174244768" duration="74000" />
+      <workItem from="1715174404578" duration="5264000" />
     </task>
     <servers />
   </component>
