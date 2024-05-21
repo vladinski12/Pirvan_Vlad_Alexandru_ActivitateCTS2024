@@ -6,6 +6,7 @@ import Models.Decorator.Website;
 import Models.Spital.Diagnostic;
 import Models.Spital.DiagnosticAbstract;
 
+// A7
 public class Main {
     public static void main(String[] args) {
         DiagnosticAbstract diagnostic = new Diagnostic("raceala", "tuse, nas infundat", false);

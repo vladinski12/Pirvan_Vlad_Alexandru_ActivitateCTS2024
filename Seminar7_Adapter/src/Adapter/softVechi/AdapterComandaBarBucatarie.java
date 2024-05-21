@@ -7,7 +7,6 @@ public class AdapterComandaBarBucatarie extends Bar implements SoftBucatarie {
     @Override
     public void printareBon() {
         super.afiseareNotaDePlata();
-
     }
 
     @Override

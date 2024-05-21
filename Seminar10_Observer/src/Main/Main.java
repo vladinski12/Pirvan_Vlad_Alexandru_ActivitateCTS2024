@@ -32,7 +32,7 @@ public class Main {
         sala.notificaMeciFotbal();
         sala.stergeAbonat(abonat2);
         sala.notificaMeciHandbal();
-
+        
         Subject stadion = new Stadion();
         stadion.adaugaAbonat(abonat1);
         stadion.adaugaAbonat(abonat1);
