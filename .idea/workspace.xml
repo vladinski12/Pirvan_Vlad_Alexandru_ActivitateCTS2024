@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0e3590-8175-4a50-9678-77db3b789dd9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seminar12_UnitTesting/Seminar12_UnitTesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar12_UnitTesting/src/Models/PersoanaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_Composite/Seminar8_Composite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_Composite/src/Models/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_Composite/src/Models/Sectie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_Composite/src/Models/StructuraAbstracta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/Seminar13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/Categorii/CuMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/Categorii/FaraMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/Dubluri/PersoanaFake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/PachetTuristicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/Suite/SuitaCompleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar13/src/Tests/Suite/SuitaCustom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar10_Observer/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar10_Observer/src/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/AdapterComandaBarBucatarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar7_Adapter/src/Adapter/softVechi/AdapterComandaBarBucatarie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar8_Decorator/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_Decorator/src/Main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +24,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -47,53 +45,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.Main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.PersoanaTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexCardinality.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexCorrectByLetter.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexEmptyStringErrorCondition.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexNull.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexOrder.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.PersoanaTest.getSexRange.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vpirv/Desktop/Facultate/an3sem2/CTS/Pirvan_Vlad_Alexandru_ActivitateCTS2024&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Debug",
+    "Application.Main.Main (1).executor": "Run",
+    "Application.Main.Main (2).executor": "Run",
+    "Application.Main.Main (3).executor": "Run",
+    "Application.Main.Main (4).executor": "Run",
+    "Application.Main.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PachetTuristicTest.aplicaDiscountFake.executor": "Debug",
+    "JUnit.PachetTuristicTest.executor": "Run",
+    "JUnit.PachetTuristicTest.testCorectitudineAplicaDiscount.executor": "Run",
+    "JUnit.PachetTuristicTest.testRangeBoundaryAplicaDiscount.executor": "Run",
+    "JUnit.PachetTuristicTest.valoareAplicaDiscount0.executor": "Run",
+    "JUnit.PachetTuristicTest.valoareAplicaDiscount1.executor": "Run",
+    "JUnit.PachetTuristicTest.valoareAplicaDiscount100.executor": "Debug",
+    "JUnit.PachetTuristicTest.valoareNuAplicaDiscountFake.executor": "Run",
+    "JUnit.PersoanaTest.executor": "Run",
+    "JUnit.PersoanaTest.getSexCardinality.executor": "Run",
+    "JUnit.PersoanaTest.getSexCorrectByLetter.executor": "Run",
+    "JUnit.PersoanaTest.getSexEmptyStringErrorCondition.executor": "Run",
+    "JUnit.PersoanaTest.getSexNull.executor": "Run",
+    "JUnit.PersoanaTest.getSexOrder.executor": "Run",
+    "JUnit.PersoanaTest.getSexRange.executor": "Run",
+    "JUnit.SuitaCompleta.executor": "Run",
+    "JUnit.SuitaCustom.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "jbr-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vpirv/Desktop/Facultate/an3sem2/CTS/Pirvan_Vlad_Alexandru_ActivitateCTS2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vpirv\Desktop\Facultate\an3sem2\CTS\Pirvan_Vlad_Alexandru_ActivitateCTS2024\Seminar12_UnitTesting\src\Models" />
@@ -111,93 +119,91 @@
       <recent name="Models" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersoanaTest.getSexEmptyStringErrorCondition">
-    <configuration name="PersoanaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Seminar12_UnitTesting" />
+  <component name="RunManager" selected="JUnit.SuitaCustom">
+    <configuration name="PachetTuristicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seminar13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Models.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Models" />
-      <option name="MAIN_CLASS_NAME" value="Models.PersoanaTest" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PachetTuristicTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexCardinality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Seminar12_UnitTesting" />
+    <configuration name="PachetTuristicTest.aplicaDiscountFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seminar13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Models.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Models" />
-      <option name="MAIN_CLASS_NAME" value="Models.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexCardinality" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PachetTuristicTest" />
+      <option name="METHOD_NAME" value="aplicaDiscountFake" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexEmptyStringErrorCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Seminar12_UnitTesting" />
+    <configuration name="PachetTuristicTest.valoareAplicaDiscount100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seminar13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Models.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Models" />
-      <option name="MAIN_CLASS_NAME" value="Models.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexEmptyStringErrorCondition" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PachetTuristicTest" />
+      <option name="METHOD_NAME" value="valoareAplicaDiscount100" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Seminar12_UnitTesting" />
+    <configuration name="PersoanaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seminar13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Models.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Models" />
-      <option name="MAIN_CLASS_NAME" value="Models.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexNull" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.PersoanaTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersoanaTest.getSexRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Seminar12_UnitTesting" />
+    <configuration name="SuitaCustom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seminar13" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Models.*" />
+          <option name="PATTERN" value="Tests.Suite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Models" />
-      <option name="MAIN_CLASS_NAME" value="Models.PersoanaTest" />
-      <option name="METHOD_NAME" value="getSexRange" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Tests.Suite" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Suite.SuitaCustom" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersoanaTest.getSexEmptyStringErrorCondition" />
+        <item itemvalue="JUnit.SuitaCustom" />
         <item itemvalue="JUnit.PersoanaTest" />
-        <item itemvalue="JUnit.PersoanaTest.getSexCardinality" />
-        <item itemvalue="JUnit.PersoanaTest.getSexNull" />
-        <item itemvalue="JUnit.PersoanaTest.getSexRange" />
+        <item itemvalue="JUnit.PachetTuristicTest.aplicaDiscountFake" />
+        <item itemvalue="JUnit.PachetTuristicTest.valoareAplicaDiscount100" />
+        <item itemvalue="JUnit.PachetTuristicTest" />
       </list>
     </recent_temporary>
   </component>
@@ -244,11 +250,23 @@
       <workItem from="1715665187314" duration="586000" />
       <workItem from="1716292872026" duration="1295000" />
       <workItem from="1716294210848" duration="2629000" />
-      <workItem from="1716302160679" duration="232000" />
+      <workItem from="1716302160679" duration="845000" />
+      <workItem from="1716897547886" duration="3850000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Seminar13/src/Tests/PachetTuristicTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
